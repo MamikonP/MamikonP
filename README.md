@@ -104,9 +104,15 @@ I am a **Senior Flutter Developer** with **5+ years of dedicated commercial mobi
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MamikonP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Mamikon's GitHub stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MamikonP&theme=tokyonight" alt="Mamikon's GitHub Activity Overview" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MamikonP&theme=tokyonight" alt="Mamikon's GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamikonP&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MamikonP&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br/>
