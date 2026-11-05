@@ -3,12 +3,12 @@
 # 👋 Hi, I'm Mamikon Papikyan
 
 ### **Senior Flutter Developer**
-*5+ Years Mobile Development • 7+ Years Overall Software Engineering*
+*5+ Years of Building Production iOS & Android Applications*
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Senior+Flutter+Developer;5%2B+Years+Mobile+Dev+%E2%80%A2+7%2B+Years+Software+Engineering;Flutter+%2B+FlutterFlow+%2B+Native+Android+(Kotlin);Clean+Architecture+%7C+BLoC+%7C+Riverpod+%7C+CI%2FCD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Senior+Flutter+Developer+(5%2B+Years);Flutter+%2B+FlutterFlow+%2B+Native+Android+(Kotlin);Clean+Architecture+%7C+BLoC+%7C+Riverpod+%7C+MobX;High-Performance+Mobile+UI+%26+Automated+CI%2FCD" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -26,13 +26,13 @@
 
 ### 🚀 About Me
 
-I am a **Senior Flutter Developer** with **5+ years of dedicated commercial mobile development experience** and **7+ years overall in software engineering**, building high-performance, scalable applications for **iOS and Android**.
+I am a **Senior Flutter Developer** with **5+ years of dedicated commercial mobile experience** building, maintaining, and scaling production-grade applications for **iOS and Android**.
 
-- 📱 **Flutter & FlutterFlow Expertise**: Deep expertise across the Flutter SDK, Dart internals, and rapid-to-production development with **FlutterFlow** (custom actions, widgets, API integrations, and pro-code extensions).
-- 🤖 **Native Android & Kotlin**: Strong proficiency in native **Android (Kotlin)** and **iOS (Swift)** platform channels for background services, push notifications, VoIP, and hardware integrations.
-- 🏛️ **Architecture & Best Practices**: Dedicated practitioner of **Clean Architecture**, **SOLID principles**, and maintainable state management (**BLoC/Cubit**, **Riverpod**, **MobX**).
-- ⚡ **Performance & Canvas UI**: Crafting responsive 60fps animations, memory-conscious widgets, and custom rendering with `CustomPainter`.
-- 🔄 **CI/CD & Release Automation**: End-to-end store publishing and pipeline automation with **Fastlane**, **GitHub Actions**, **Google Play Console**, and **App Store Connect**.
+- 📱 **Flutter & FlutterFlow Development**: Deep expertise across Flutter SDK and Dart, building feature-rich applications and rapid-delivery solutions using **FlutterFlow** (custom actions, custom widgets, state, and API integrations).
+- 🤖 **Native Android & Kotlin Integrations**: Strong proficiency in native **Android (Kotlin)** and **iOS (Swift)** platform channels for background tasks, hardware capabilities, and push notifications.
+- 🏛️ **Clean Architecture & Scalability**: Dedicated to clean code, **SOLID principles**, and scalable state management (**BLoC/Cubit**, **Riverpod**, **MobX**).
+- ⚡ **Performance & Canvas Animations**: Profiling with Flutter DevTools, 60fps rendering, custom canvas animations using `CustomPainter`, and memory optimization.
+- 🔄 **Store Deployment & CI/CD**: Hands-on with **Fastlane**, **GitHub Actions**, **Google Play Console**, and **App Store Connect** for reliable automated release pipelines.
 
 ---
 
@@ -40,7 +40,7 @@ I am a **Senior Flutter Developer** with **5+ years of dedicated commercial mobi
 
 <table>
   <tr>
-    <td width="25%" valign="top"><strong>Core & Mobile</strong></td>
+    <td width="25%" valign="top"><strong>Core Mobile</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
@@ -117,18 +117,18 @@ I am a **Senior Flutter Developer** with **5+ years of dedicated commercial mobi
 
 ---
 
-### 💼 Featured Projects & Domain Highlights
+### 💼 Featured Projects & Focus Areas
 
 - 🚗 **[AutoPassport](https://github.com/MamikonP/auto_passport)**: Digital Vehicle Service Passport & Maintenance Ledger app built with Flutter, MobX, Freezed, Hive, and AutoRoute. Demonstrates clean feature architecture, comprehensive multi-tier testing, and exportable buyer resale dossiers.
-- 📱 **Flutter & FlutterFlow Solutions**: Delivering production apps leveraging FlutterFlow for high-velocity prototyping, integrated with custom Flutter/Dart business logic, state management, and backend APIs.
+- 📱 **Flutter & FlutterFlow Delivery**: Rapid delivery of production mobile apps leveraging FlutterFlow for prototyping combined with robust custom Flutter/Dart business logic, state management, and backend APIs.
 - 🤖 **Native Android (Kotlin) & Platform Channels**: Custom native plugins and platform integrations bridging high-performance Android capabilities directly into cross-platform Flutter codebases.
-- 💳 **Fintech & Secure Transactions**: Financial flows with 3DS verification, Apple Pay / Google Pay, biometric authentication, and offline synchronization.
+- 💳 **Fintech & Mobile Experiences**: Scalable financial flows with 3DS verification, Apple Pay / Google Pay, biometric authentication, and offline synchronization.
 
 ---
 
 ### 📬 Get in Touch
 
-I'm always excited to connect with fellow mobile engineers, collaborate on high-impact projects, or discuss Flutter/FlutterFlow solutions.
+I'm always excited to connect with fellow mobile engineers, collaborate on high-impact projects, or discuss Flutter and FlutterFlow solutions.
 
 - 💬 **LinkedIn**: [linkedin.com/in/mamikon-papikyan](https://linkedin.com/in/mamikon-papikyan)
 - 📧 **Direct Email**: [mamikonpap@gmail.com](mailto:mamikonpap@gmail.com)
